@@ -1,16 +1,22 @@
 # Coffee-Shop-Sales-Dashboard-
 
 Overview of Coffee Shop Sales Dashboard
+
 ​1. Introduction and Objectives:
+
 The Coffee Shop Sales Dashboard serves as a strategic analytical tool designed to monitor and optimize the performance of a multi-location coffee retail business. Its primary objective is to provide a granular view of sales trends, customer behavior, and operational efficiency across three key locations: Astoria, Hell's Kitchen, and Lower Manhattan. By visualizing complex datasets, it enables stakeholders to make data-driven decisions regarding inventory, staffing, and marketing.
 
 ​2. Key Performance Indicators (KPIs):
 
 The dashboard prominently displays four critical metrics that define the health of the business:
-​Total Revenue: The shop generated a significant total revenue of approximately \$698,812.33.
-​Transaction Volume: A total of 149,116 transactions were recorded, reflecting a high customer footfall.
-​Total Quantity Sold: The business moved 214,470 units of products.
-​Average Transaction Value (ATV): The average spend per customer stands at \$4.69, a vital metric for understanding pricing strategy and upselling effectiveness.
+
+​ Total Revenue: The shop generated a significant total revenue of approximately \$698,812.33.
+
+ ​Transaction Volume: A total of 149,116 transactions were recorded, reflecting a high customer footfall.
+ 
+​ Total Quantity Sold: The business moved 214,470 units of products.
+
+ ​Average Transaction Value (ATV): The average spend per customer stands at \$4.69, a vital metric for understanding pricing strategy and upselling effectiveness.
 
 ​3. Store-Wise Performance and Distribution:
 
